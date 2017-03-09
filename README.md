@@ -217,7 +217,8 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Codeship](https://codeship.com/jobs) - SaaS Continuous Delivery
   1. [Collabora](https://www.collabora.com/about-us/careers.html) - Open source software-based consulting.
   1. [Compose](https://www.compose.io/jobs/) - Managing databases as a service. Distributed team with offices in San Meteo, CA and Birmingham, AL.
-  1. [Crossover] (https://www.crossover.com/available-jobs) - Project-based Java, .Net and DevOps positions.
+  1. [Coveralls](https://coveralls.io) - Coveralls helps developers deliver code confidently by showing statistics and trends in automated test suite coverage of source code. 
+  1. [Crossover](https://www.crossover.com/available-jobs) - Project-based Java, .Net and DevOps positions.
   1. [Datadog](https://www.datadoghq.com/careers/) - Easy to use and scalable monitoring systems for modern and dynamic infrastructure.  Distributed team with offices in New York, Boston and Paris.  Engineers based all around the world.
   1. [DataStax](http://www.datastax.com/company/careers) - Consulting based on Apache Cassandra.
   1. [Deeson] (https://www.deeson.co.uk/careers) - UK-based w/European team. Digital agency specialising in Drupal, Symfony and Laravel
