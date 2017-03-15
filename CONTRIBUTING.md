@@ -5,7 +5,7 @@ Please ensure your pull request adheres to the following guidelines:
 - Check if the link is working and pointing to the right location.
 - Check your spelling and grammar.
 - Choose the corresponding section.
-- The list, after your addition, should be sorted alphabetically.
+- The list, after your addition, should be sorted **alphabetically**.
 - Make an individual pull request for each suggestion.
 - If you use a text editor to fashion the pull request, make sure your text editor is set to remove trailing whitespace.
 - New categories, or improvements to the existing categorization, are welcome.
